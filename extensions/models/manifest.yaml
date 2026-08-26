@@ -1,0 +1,24 @@
+manifestVersion: 1
+name: "@mgreten/github-pr-feedback"
+version: "2026.08.26.1"
+description: >
+  Reconstructs detailed GitHub pull-request feedback threads and bounded diff context for deterministic review and response workflows.
+repository: https://github.com/meagerfindings/swamp-github-pr-feedback
+website:
+  label: GitHub PR Feedback documentation
+  url: https://github.com/meagerfindings/swamp-github-pr-feedback#readme
+models:
+  - github_pr_feedback.ts
+additionalFiles:
+  - README.md
+  - LICENSE.txt
+labels:
+  - github
+  - pull-request
+  - code-review
+  - feedback
+platforms:
+  - darwin-aarch64
+  - darwin-x86_64
+  - linux-aarch64
+  - linux-x86_64
