@@ -1,9 +1,10 @@
 manifestVersion: 1
 name: "@mgreten/github-pr-feedback"
-version: "2026.08.26.1"
+version: "2026.10.14.1"
 description: >
   Reconstructs detailed GitHub pull-request feedback threads and bounded diff context for deterministic review and response workflows.
 repository: https://github.com/meagerfindings/swamp-github-pr-feedback
+license: MIT
 website:
   label: GitHub PR Feedback documentation
   url: https://github.com/meagerfindings/swamp-github-pr-feedback#readme
